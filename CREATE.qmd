@@ -1,0 +1,20 @@
+---
+title: "CREATE prompting framework"
+date: "2024-12-16"
+---
+
+CREATE prompting framework je do určité míry podobný s CO-STAR frameworkem, nicméně pracuje
+
+## Character
+
+## Request
+
+## Examples
+
+## Additions
+
+## Type of output
+
+## Extras
+
+Pro více informací viz [komplexní příručka](https://davebirss.com/documents/the_prompt_guide.pdf)

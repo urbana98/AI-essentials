@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "AI essentials"
+  author: "National Library of Technology"
+  date: "16. 12. 2024"
+  page-navigation: true
+  search: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - CREATE.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    number-sections: false
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
